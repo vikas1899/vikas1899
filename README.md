@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaygudevikas1899@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o6L731qRcz8GZE-Gf6zbwPPEUqDyLogw/view?usp=drivesdk](https://drive.google.com/file/d/1o6L731qRcz8GZE-Gf6zbwPPEUqDyLogw/view?usp=drivesdk)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1gg_eqZoEO8dBj7VpMkPDyPxxJsOAXzjN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
