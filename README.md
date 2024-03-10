@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaygudevikas1899@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1gg_eqZoEO8dBj7VpMkPDyPxxJsOAXzjN/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio](https://vikas-jaygude-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
