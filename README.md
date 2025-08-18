@@ -21,7 +21,6 @@
 </div>
 
 
-*Replace with your actual project names, descriptions, and links*
 
 ## 🚀 Technical Skills
 
@@ -85,8 +84,6 @@
 ### **Cloud & DevOps**  
 <img src="https://skillicons.dev/icons?i=aws" width="24" height="24"> **AWS** ▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 65%
 
-*Adjust percentages to reflect your true skill levels*
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -100,7 +97,6 @@
 | **LeetCode**  | vicky1899          | 300+            | 1442    |
 | **GFG**       | jaygudevikas8070   | 200+            | —        |
 
-*Update with your actual stats*
 
 ## 🎓 Education
 
